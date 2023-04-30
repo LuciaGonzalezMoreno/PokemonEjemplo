@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform-app", "winform-app\winform-app.csproj", "{2665CCDE-1C15-4007-98BA-D7100AD7060D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{5306D195-40C0-43E1-91F8-991750FCBA71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{ECBAE187-5CF5-483B-BD2F-1701D1B51A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2665CCDE-1C15-4007-98BA-D7100AD7060D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2665CCDE-1C15-4007-98BA-D7100AD7060D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2665CCDE-1C15-4007-98BA-D7100AD7060D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2665CCDE-1C15-4007-98BA-D7100AD7060D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5306D195-40C0-43E1-91F8-991750FCBA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5306D195-40C0-43E1-91F8-991750FCBA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5306D195-40C0-43E1-91F8-991750FCBA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5306D195-40C0-43E1-91F8-991750FCBA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBAE187-5CF5-483B-BD2F-1701D1B51A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBAE187-5CF5-483B-BD2F-1701D1B51A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBAE187-5CF5-483B-BD2F-1701D1B51A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBAE187-5CF5-483B-BD2F-1701D1B51A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A9515C-3D7D-4231-8012-01B94E93701F}
+	EndGlobalSection
+EndGlobal
